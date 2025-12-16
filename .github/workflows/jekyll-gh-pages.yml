@@ -45,4 +45,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist/glosario/browser  # <--- IMPORTANTE: Confirma que esta sea la ruta en tu angular.json
-          branch: gh-pages
+          branch: main
