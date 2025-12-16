@@ -36,7 +36,7 @@ const firebaseConfig = {
   measurementId: "G-HJGVEZQ8K1"
 };
 const apiKeyGeminis = "AIzaSyBZFcOx0LguhMhTFx9Z7GsbVKx1bDhj-LE";
-const ADMIN_PASSWORD = "Triana0?";
+const ADMIN_PASSWORD = "Triana0.";
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
